@@ -1,0 +1,26 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "A workshop from [Frontend Masters](https://frontendmasters.com/courses/complete-react-v5/destructuring-props/) serving as an intro in ReactJS.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Alex95/React-Intro-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Alex95/React-Intro-Project/issues"
+  },
+  "homepage": "https://github.com/R-Alex95/React-Intro-Project#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "prettier": "^2.1.2"
+  }
+}
