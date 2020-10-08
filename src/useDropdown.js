@@ -1,4 +1,3 @@
-import { format } from "prettier";
 import React, { useState } from "react";
 
 const useDropdown = (label, defaultState, options) => {
