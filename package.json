@@ -2,7 +2,7 @@
   "homepage": "https://r-alex95.github.io/adoptme/",
   "name": "adopt-me",
   "version": "1.0.0",
-  "description": "A workshop from [Frontend Masters](https://frontendmasters.com/courses/complete-react-v5/destructuring-props/) serving as an intro in ReactJS.",
+  "description": "A workshop from [Frontend Masters](https://frontendmasters.com/courses/complete-react-v5/) serving as an intro in ReactJS.",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
